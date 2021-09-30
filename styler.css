@@ -1,11 +1,38 @@
 #t {
 position:absolute ;
-margin: 50px 100px 0px 300px;
-width: 600px;
-height:400px ;
+
+      width: 100;
+
 }
 
 body {
 
     background-color: rgb(124, 176, 218) ;
+}
+
+#logo{
+    height:3.5rem ;
+    margin-right: 18rem;
+}
+#foto{
+    height: 3rem;
+}
+
+#nav {
+    background-color: rgb(79, 74, 74);font-size: 1.5rem;
+    text-align: center;
+
+}
+#nav div ul li a {
+ margin-right:4rem ;
+}
+ 
+h5 {
+    color:yellow;
+    font-size: 3rem;
+}
+
+.texto {
+    color:yellow;
+    font-size: 1rem;
 }
