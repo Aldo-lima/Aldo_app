@@ -12,7 +12,7 @@ body {
 
 #logo{
     height:3.5rem ;
-    margin-right: 18rem;
+    margin-right: 19rem;
 }
 #foto{
     height: 3rem;
@@ -24,7 +24,7 @@ body {
 
 }
 #nav div ul li a {
- margin-right:4rem ;
+ margin-right:5rem ;
 }
  
 h5 {
@@ -35,4 +35,13 @@ h5 {
 .texto {
     color:yellow;
     font-size: 1rem;
+}
+
+#apa {
+    background-color: rgb(79, 74, 74);font-size: 3rem;
+    
+}
+
+.offcanvas-header {
+    width: 5rem;
 }
