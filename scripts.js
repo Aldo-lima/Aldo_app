@@ -1,4 +1,1 @@
-<a onclick="alert (
-    'desculpe-me ainda estou procurando hospedagem para o PHP'
-    
-)">java</a>
+window.alert("Os apps em (Java Python e PHP )  estão na conta free do heroku por esse motivo demoram 40 segundos para abrirem a primeira vez")
